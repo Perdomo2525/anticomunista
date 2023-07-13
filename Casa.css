@@ -1,0 +1,325 @@
+.u-block-02bf-7 {
+  position: absolute;
+  left: calc(((100% - 1140px) / 2)  + 514px);
+  top: auto;
+  right: auto;
+  bottom: 94px;
+}
+
+.u-block-02bf-3 {
+  position: absolute;
+  left: 0;
+}
+
+.u-block-02bf-6 {
+  position: absolute;
+  width: 65px;
+  height: 65px;
+  left: auto;
+  top: 388px;
+  right: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-block-02bf-7 {
+    left: calc(((100% - 940px) / 2)  + 414px);
+  }
+}
+
+@media (max-width: 991px) {
+  .u-block-02bf-7 {
+    left: calc(((100% - 720px) / 2)  + 304px);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-block-02bf-7 {
+    left: calc(((100% - 540px) / 2)  + 214px);
+  }
+}
+
+@media (max-width: 575px) {
+  .u-block-02bf-7 {
+    left: calc(((100% - 340px) / 2)  + 114px);
+  }
+}
+
+ .u-section-1-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url("images/carlos_marx.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1-1 .u-sheet-1 {
+  min-height: 852px;
+}
+
+.u-section-1-1 .u-text-1 {
+  font-size: 5rem;
+  font-weight: 700;
+  margin: 87px auto 0 -8px;
+}
+
+.u-section-1-1 .u-text-2 {
+  margin: 46px 0 0;
+}
+
+.u-section-1-1 .u-btn-1 {
+  background-image: none;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin: 350px -28px 0 auto;
+}
+
+.u-section-1-1 .u-text-3 {
+  margin: 52px auto 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 703px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    font-size: 6rem;
+  }
+
+  .u-section-1-1 .u-btn-1 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 538px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 404px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 254px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    font-size: 3.75rem;
+  }
+}
+
+ .u-section-1-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url("images/Friedrich-Engels-Author.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1-2 .u-sheet-1 {
+  min-height: 830px;
+}
+
+.u-section-1-2 .u-text-1 {
+  margin: 73px 164px 0 139px;
+}
+
+.u-section-1-2 .u-text-2 {
+  margin: 513px 175px 0 128px;
+}
+
+.u-section-1-2 .u-text-3 {
+  margin: 98px 660px 9px -357px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 684px;
+  }
+
+  .u-section-1-2 .u-text-1 {
+    margin-right: 64px;
+    margin-left: 39px;
+    width: 837px;
+  }
+
+  .u-section-1-2 .u-text-2 {
+    width: 837px;
+    margin-left: 28px;
+    margin-right: 75px;
+  }
+
+  .u-section-1-2 .u-text-3 {
+    margin-right: 560px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 524px;
+  }
+
+  .u-section-1-2 .u-text-1 {
+    width: 720px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1-2 .u-text-2 {
+    width: auto;
+    margin-top: 972px;
+    margin-left: 29px;
+    margin-right: 29px;
+  }
+
+  .u-section-1-2 .u-text-3 {
+    margin: 72px 0 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 393px;
+  }
+
+  .u-section-1-2 .u-text-1 {
+    width: 540px;
+  }
+
+  .u-section-1-2 .u-text-2 {
+    margin-left: 18px;
+    margin-right: 18px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 247px;
+  }
+
+  .u-section-1-2 .u-text-1 {
+    width: 340px;
+  }
+
+  .u-section-1-2 .u-text-2 {
+    margin-left: 23px;
+    margin-right: 23px;
+  }
+
+  .u-section-1-2 .u-text-3 {
+    margin-top: 34px;
+    margin-bottom: 5px;
+  }
+}
+
+ .u-section-1-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/Manifiesto-comunista.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1-3 .u-sheet-1 {
+  min-height: 852px;
+}
+
+.u-section-1-3 .u-text-1 {
+  margin: 322px auto 0;
+}
+
+.u-section-1-3 .u-text-2 {
+  width: 837px;
+  margin: 29px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-3 .u-sheet-1 {
+    min-height: 703px;
+  }
+
+  .u-section-1-3 .u-text-1 {
+    font-size: 4.5rem;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-3 .u-sheet-1 {
+    min-height: 538px;
+  }
+
+  .u-section-1-3 .u-text-1 {
+    margin-left: 29px;
+  }
+
+  .u-section-1-3 .u-text-2 {
+    width: auto;
+    margin-left: 29px;
+    margin-right: 29px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-3 .u-sheet-1 {
+    min-height: 404px;
+  }
+
+  .u-section-1-3 .u-text-1 {
+    font-size: 3rem;
+    margin-left: 18px;
+  }
+
+  .u-section-1-3 .u-text-2 {
+    margin-left: 18px;
+    margin-right: 18px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-3 .u-sheet-1 {
+    min-height: 350px;
+  }
+
+  .u-section-1-3 .u-text-1 {
+    font-size: 2.75rem;
+    margin-left: 23px;
+  }
+
+  .u-section-1-3 .u-text-2 {
+    margin-left: 23px;
+    margin-right: 23px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 509px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 160px 330px 0 274px;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 7px -13px 60px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-text-1 {
+    margin-right: 297px;
+    margin-left: 174px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-text-1 {
+    margin-right: 227px;
+    margin-left: 64px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-1 {
+    margin-right: 170px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-text-1 {
+    margin-right: 107px;
+  }
+}
